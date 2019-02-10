@@ -3,10 +3,11 @@ body {
     padding:0;
     margin:0;
     font-family: 'Roboto', sans-serif;
+    
 }
 
-.font_righteous {
-    font-family: 'Righteous', cursive;
+.font_secondary {
+    font-family: 'Staatliches', cursive;
 }
 
 .bck_black {
