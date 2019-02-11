@@ -9,7 +9,7 @@ const Location = () => {
         frameborder="0" 
         style={{border:"0"}} 
         allowfullscreen></iframe>
-        <div className="locatio_tag">
+        <div className="location_tag">
             <div>Location</div>
         </div>
     </div>
